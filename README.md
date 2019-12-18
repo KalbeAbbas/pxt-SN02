@@ -1,4 +1,4 @@
-# pxt-sn02 ![Build status badge](https://github.com/kalbeabbas/pxt-sn02/workflows/MakeCode/badge.svg)
+# pxt-sn01 ![Build status badge](https://github.com/kalbeabbas/pxt-sn02/workflows/MakeCode/badge.svg)
 
 
 
