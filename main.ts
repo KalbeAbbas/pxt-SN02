@@ -2,7 +2,7 @@
 //% color=190 weight=100 icon="\uf1ec"
 namespace SN01 {
 
-    enum format {
+    export enum format {
         //% block=raw
         RAW = 0,
         //% block=DMS
@@ -11,7 +11,7 @@ namespace SN01 {
         DD = 2
     }
 
-    enum speed_format {
+    export enum speed_format {
         //% block=knots
         KNOTS = 0,
         //% block=KPH
